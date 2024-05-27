@@ -11,8 +11,7 @@ you will get the outout:
 
 		#define KEY_ENTER		28
 
-so there you have it, it's 28, hence: diowtype 28
-It was tested on Debian 12 on Wayfire.
+so there you have it, it's 28, hence: diowtype 28 will press and release the Enter key.
 
 # What you can do with DioWType
    1. Simulate any key press.
